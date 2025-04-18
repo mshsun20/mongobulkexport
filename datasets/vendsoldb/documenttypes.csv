@@ -1,0 +1,4 @@
+"_id","doctyp_code","doctyp_name","status","createdby","createdAt","updatedAt","__v"
+"67d026488f74ea0a9638c8f3","PAN","Personal Account Number","Active","67cf57d8d2169b206e2c5886","2025-03-11T12:02:16.200Z","2025-03-11T12:02:16.200Z",0
+"67d0267a8f74ea0a9638c92a","GSTIN","Goods and Services Tax Identification Number","Active","67cf57d8d2169b206e2c5886","2025-03-11T12:03:06.736Z","2025-03-11T12:03:06.736Z",0
+"67d026858f74ea0a9638c961","TAN","Tax Deduction and Collection Account Number","Active","67cf57d8d2169b206e2c5886","2025-03-11T12:03:17.910Z","2025-03-11T12:03:17.910Z",0

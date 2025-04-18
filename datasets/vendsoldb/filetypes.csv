@@ -1,0 +1,4 @@
+"_id","filtyp_code","filtyp_name","filtyp_dtl","filtyp_mime","status","createdby","createdAt","updatedAt","__v"
+"67d026eb8f74ea0a9638c9ae",".pdf","PDF","","application/pdf","Active","67cf57d8d2169b206e2c5886","2025-03-11T12:04:59.552Z","2025-03-11T12:04:59.552Z",0
+"67d027088f74ea0a9638c9e5",".docx","DOCX","","application/vnd.openxmlformats-officedocument.wordprocessingml.document","Active","67cf57d8d2169b206e2c5886","2025-03-11T12:05:28.439Z","2025-03-11T12:05:28.439Z",0
+"67d027318f74ea0a9638ca66",".xlsx","XLSX","","application/vnd.openxmlformats-officedocument.spreadsheetml.sheet","Active","67cf57d8d2169b206e2c5886","2025-03-11T12:06:09.078Z","2025-03-11T12:06:09.078Z",0

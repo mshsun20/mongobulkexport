@@ -1,0 +1,17 @@
+{
+  "name": "mongobulkexport",
+  "version": "1.0.0",
+  "description": "Mongodb data bulk export",
+  "license": "ISC",
+  "author": "Shiv Halder",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "mongodb": "^6.15.0"
+  }
+}

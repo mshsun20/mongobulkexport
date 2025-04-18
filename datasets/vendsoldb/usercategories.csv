@@ -1,0 +1,6 @@
+"_id","cat_name","cat_dtl","cat_lvl","status","createdby","createdAt","updatedAt","__v"
+"67cfdf66959a7e253e6c8bac","HO User","",1,"Active","67cf57d8d2169b206e2c5886","2025-03-11T06:59:50.835Z","2025-03-11T06:59:50.835Z",0
+"67cfe0d2aac99ba5c1e76e2f","Plant User","",2,"Active","67cf57d8d2169b206e2c5886","2025-03-11T07:05:54.883Z","2025-03-11T07:05:54.883Z",0
+"67cfe0dfaac99ba5c1e76e6c","Depot User","",3,"Active","67cf57d8d2169b206e2c5886","2025-03-11T07:06:07.423Z","2025-03-11T07:06:07.423Z",0
+"67cfe0e7aac99ba5c1e76ea9","Port User","",4,"Active","67cf57d8d2169b206e2c5886","2025-03-11T07:06:15.841Z","2025-03-11T07:06:15.841Z",0
+"67cfe0f3aac99ba5c1e76ee6","3rd Party User","",5,"Active","67cf57d8d2169b206e2c5886","2025-03-11T07:06:27.657Z","2025-03-11T07:06:27.657Z",0
